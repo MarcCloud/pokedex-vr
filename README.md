@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## aframe-react-boilerplate
 
 Boilerplate for building virtual reality experiences with
@@ -16,3 +17,7 @@ npm run serve
 ```
 
 Then head over to `http://localhost:9090`.
+=======
+# pokedex-vr
+Experiment using a-frame React + FRP
+>>>>>>> 20674a50a1482b3d55ca6f080a9b485aa93ca6c0
